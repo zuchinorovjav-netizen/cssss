@@ -1,0 +1,28 @@
+.profile-img {
+    width: 300px;
+    height: 150px;
+    border-radius: 50%;
+    border: 10px solid blue;
+    align-items: center;
+}
+body {
+    background-color: #F0F0DB;
+    font-family: Arial, sans-serif;
+    padding: 10px;
+}
+.heading{
+    color:rgb(14, 53, 53);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: italic;
+    border: 2px solid black;
+    text-align: center;
+}
+
+.subheading{
+    color:rgb(38, 127, 127);
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+    border: 2px solid rgb(35, 8, 8);
+    text-align: center;
+    padding:10px;
+}

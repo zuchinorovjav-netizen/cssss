@@ -1,0 +1,41 @@
+body{
+    background-color: lightblue;
+}
+
+#goalsimg{
+    width: 500px;
+    height: auto;
+    border: 3px solid black;
+    border-radius: 10px;
+}
+
+.header{
+    text-align: center;
+    font-family: Arial, sans-serif;
+    color: darkblue;
+}
+
+div{
+    background-color: white;
+}
+
+span{
+    background-color: greenyellow;
+}
+
+.howquestion{
+    color: red;
+}
+
+.howquestionmoney{
+    color: orange;
+}
+
+.whatquestion{
+    color: purple;
+}
+
+#first100k{
+    background-color: gold;
+    font-weight: bold;
+}
