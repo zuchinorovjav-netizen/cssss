@@ -25,17 +25,28 @@ span{
 
 .howquestion{
     color: red;
+    font-size: larger;
+    padding:50px;
 }
 
 .howquestionmoney{
     color: orange;
+    margin:10px;
 }
 
 .whatquestion{
     color: purple;
+    padding-top: 20px;
 }
+
+.questions{
+    padding: auto;
+    margin-left: 50px;
+}
+
 
 #first100k{
     background-color: gold;
     font-weight: bold;
+    font-size:xx-large;
 }
